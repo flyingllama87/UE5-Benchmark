@@ -1,0 +1,62 @@
+# Unreal Engine 5 Specific #
+########################################
+
+# Ignore binary files and platform-specific build outputs
+Binaries/
+DerivedDataCache/
+Saved/
+Intermediate/
+Build/
+.vscode/
+.vs/
+.vscode/
+*.VC.db
+*.VC.opendb
+
+# Ignore auto-generated project files for Visual Studio
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.user
+*.cache
+*.pdb
+
+# Ignore Mac build files
+*.DS_Store
+
+# Ignore Xcode build output
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+
+# Ignore macOS files
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore specific Unreal Engine cache files
+*.log
+*.tlog
+*.tmp
+*.swp
+*.lock
+
+# Ignore backup files and autosaves
+*.backup
+*.autosave
+
+# Optional exclusions - only keep source, config, and content folders
+Config/Backup/
+Config/Windows/Engine.ini
+Config/WindowsEditor/Engine.ini
+
+# Ignore plugin binaries if no source changes are made in plugins
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Ignore additional Unreal Engine cache and derived data files
+DerivedDataCache/
+CachedAssets/
+# Ignore Editor-specific data
+UserInterfaceData/
