@@ -1,18 +1,18 @@
 # UE5 Benchmark
 
 - This is source & content for a simple Unreal Engine 5.4 benchmark application.
-- Fab content + Camera on a spline + Some code = Benchmark application.
+- I couldn't find a free cross platform UE benchmark tool so I made one. AKA Fab content + Camera on a spline + Some code = Benchmark application.
 - At the end of the benchmark the results are stored in `BenchmarkResults.txt`.
 - Made in a few days without knowing anything about UE.
-- You'll need to purchase the Cave Ruins content if you want to rebuild the project.
+- You'll need to purchase the [Cave Ruins](https://www.fab.com/listings/c437d905-5078-4e59-88ed-d585ef20050b) content if you want to rebuild the project.
 
 # Download Binaries
 
 ### Windows DL
-http://musicgen.net/start/UE5Benchmark-Windows.zip
+https://musicgen.net/start/UE5Benchmark-Windows.zip
 
 ### Linux DL
-http://musicgen.net/start/UE5Benchmark-Linux.zip
+https://musicgen.net/start/UE5Benchmark-Linux.zip
 
 # Screenshots
 
