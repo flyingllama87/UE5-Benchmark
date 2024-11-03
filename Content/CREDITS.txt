@@ -1,0 +1,65 @@
+** CREDITS **
+
+Simple UE5 Benchmark
+By Morgan Robertson
+morganrobertson.net
+
+==============
+
+Rubik Wet Paint font
+By NaN, Luke Prowse
+
+https://fonts.google.com/specimen/Rubik+Wet+Paint
+
+
+Copyright 2020 The Rubik Filtered Project Authors (https://https://github.com/NaN-xyz/Rubik-Filtered)
+This Font Software is licensed under the SIL Open Font License, Version 1.1 . This license is copied below, and is also available with a FAQ at: https://openfontlicense.org
+
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+
+==============
+
+Cave Ruins / 47 Assets
+https://www.fab.com/listings/c437d905-5078-4e59-88ed-d585ef20050b
+By Pack Dev
+
+
+Professional License
+https://www.fab.com/eula
+
+
+==============
+
+
+Fantasy Characters (Pack)
+https://www.fab.com/listings/f5816915-86d9-4bef-b8f3-921408ae240b
+
+By Bugrimov Maksim
+
+Standard FAB License
+https://www.fab.com/eula
+
+==============
+
+
+Starter Kit content
+by EPIC
+
+Epic Content License Agreement
+
+https://www.unrealengine.com/en-US/eula/content
+
+==============
+
+Unreal Engine
+By EPIC
+
+Unreal Engine License Agreement
+https://www.unrealengine.com/eula/unreal
+
+==============
+
+Rest - remaining code, concept, etc.
+
+By Morgan Robertson
+morganrobertson.net

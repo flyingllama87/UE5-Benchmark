@@ -39,6 +39,9 @@ public:
     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Camera Path")
     float CameraSpeed;
 
+    UFUNCTION(BlueprintCallable, Category = "Benchmark Camera")
+    void ActivateCamera();
+
 private:
     // Current distance along the spline
     float CurrentDistanceAlongSpline;

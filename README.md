@@ -1,10 +1,10 @@
 # UE5 Benchmark
 
 - This is source & content for a simple Unreal Engine 5.4 benchmark application.
-- I couldn't find a free cross platform UE benchmark tool so I made one. AKA Fab content + Camera on a spline + Some code = Benchmark application.
+- I couldn't find a free cross platform UE benchmark tool so I made one. In short, fab.com content + Camera on a spline + Some code = Benchmark application.
 - At the end of the benchmark the results are stored in `BenchmarkResults.txt`.
 - Made in a few days without knowing anything about UE.
-- You'll need to purchase the [Cave Ruins](https://www.fab.com/listings/c437d905-5078-4e59-88ed-d585ef20050b) content if you want to rebuild the project.
+- Don't take the assets from this project without understanding the licensing for them. See CREDITS.txt file for more. 
 
 # Download Binaries
 

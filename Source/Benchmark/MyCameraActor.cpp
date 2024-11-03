@@ -1,5 +1,7 @@
 #include "MyCameraActor.h"
 #include "Components/SplineComponent.h"
+#include "Kismet/GameplayStatics.h"
+
 
 // Sets default values
 AMyCameraActor::AMyCameraActor()
@@ -31,6 +33,22 @@ void AMyCameraActor::BeginPlay()
     else
     {
         UE_LOG(LogTemp, Error, TEXT("SplineActor not assigned in the editor."));
+    }
+
+    ActivateCamera();
+}
+
+
+void AMyCameraActor::ActivateCamera()
+{
+    APlayerController* PlayerController = UGameplayStatics::GetPlayerController(GetWorld(), 0);
+    if (PlayerController)
+    {
+        PlayerController->SetViewTargetWithBlend(this, 0.0f);
+    } else
+    {
+        UE_LOG(LogTemp, Error, TEXT("Player controller not ready!"));
+
     }
 }
 
