@@ -20,6 +20,12 @@ https://musicgen.net/start/UE5Benchmark-Linux.zip
 ![Alt text](/Screenshots/screen4.png?raw=true "Screenshot 2")
 ![Alt text](/Screenshots/screen3.png?raw=true "Screenshot 3")
 
+# Project Structure
+
+- The BenchmarkManager class stores all logic and data for the benchmark - FPS history, current renderer, resolution, etc. 
+- The MyCameraActor class is responsible for the the camera movement and view.
+- The FPSHUD class is for the on-screen UI. The EndScreenWidget blueprint widget contains the end screen UI.
+
 # Credits/Licensing
 
 See CREDITS.txt for full asset credits and licenses.
